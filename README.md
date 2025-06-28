@@ -71,13 +71,18 @@ Containers:![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-ba
 💌 Let's Connect!
 You can find me here. Feel free to reach out and talk about technology—I'm always up for it! 👇
 
-https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 
-https://www.linkedin.com/in/daniel-silva-6b9367232" title="LinkedIn">
-https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-
-https://wa.me/5531982321609" title="WhatsApp">
-https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-
-https://www.instagram.com/danieloliveiraa0__/" title="Instagram">
-https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<p align="left">
+  <a href="mailto:danielsmartins2004@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-silva-6b9367232" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5531982321609" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.instagram.com/danieloliveiraa0__/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
