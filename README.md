@@ -65,7 +65,7 @@ Desenvolvedor **Fullstack** focado no ecossistema **Python/Django** e **React (J
 
 ## About Me 
 
-**Fullstack Developer** in the **Python/Django** and **React (JSX/TSX)** ecosystem. At 22 years old, I focus on building scalable architectures and high-standard technical interfaces. Combining a solid foundation in APIs and Data Modeling with a keen eye for UX/UI, I transform complex logic into high-performance, efficient, and user-centered digital products.
+**Fullstack Developer** in the **Python/Django** and **React (JSX/TSX)** ecossystem. At 22 years old, I focus on building scalable architectures and high-standard technical interfaces. Combining a solid foundation in APIs and Data Modeling with a keen eye for UX/UI, I transform complex logic into high-performance, efficient, and user-centered digital products.
 
 ---
 
