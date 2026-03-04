@@ -42,9 +42,7 @@ Desenvolvedor **Fullstack** focado no ecossistema **Python/Django** e **React (J
 
 ---
 
-### 💌 Vamos Conectar? / Let's Connect!
-
-Sinta-se à vontade para me chamar para um café ou para discutir novas tecnologias!
+### 💌 Contatos
 
 <p align="left">
   <a href="mailto:danielsmartins2004@gmail.com">
