@@ -1,10 +1,6 @@
 <img src="https://images.unsplash.com/photo-1733412505442-36cfa59a4240?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHZzY29kZXxlbnwwfHwwfHx8MA%3D%3D" alt="ilustração de um computador" width="400px" align="right">
 
-Olá, sou o Daniel Martins! 👋
-Sou um desenvolvedor focado em Backend com 21 anos, mas apaixonado por criar experiências completas. Atualmente, domino o ecossistema Python/Django no servidor e construo interfaces de alto padrão com React e JavaScript.
-
-Unindo uma base sólida em Bancos de Dados e APIs com um olhar apurado para UX/UI Mobile, busco transformar lógica complexa em produtos acessíveis e eficientes.
----
+Desenvolvedor Fullstack no ecossistema Python/Django e React(JSX, TSX). Aos 22 anos, foco na construção de arquiteturas escaláveis e interfaces de alto padrão técnico. Unindo uma base sólida em APIs e Modelagem de Dados com um olhar apurado para UX/UI, transformo lógica complexa em produtos digitais performáticos, eficientes e centrados no usuário.
 
 ### 💻 Linguagens e Frameworks
 
@@ -51,10 +47,7 @@ Aqui é onde você me encontra. Pode chamar que conversar sobre tecnologia é co
 ----------------------------------------------------------------------------------------🖥🖥🖥------------------------------------------------------------------------------------------
 
 
-Hey there, I'm Daniel! 👋
-I'm a 21-year-old backend developer, and you can call me Martins. I have a solid foundation in Backend, Databases, and APIs.
-
-Currently, I'm a college student, participating in bootcamps, and always looking to improve my skills in tech.
+Fullstack developer in the Python/Django and React (JSX, TSX) ecosystem. At 22 years old, I focus on building scalable architectures and high-standard technical interfaces. Combining a solid foundation in APIs and Data Modeling with a keen eye for UX/UI, I transform complex logic into high-performance, efficient, and user-centered digital products.
 
 💻 Languages & Frameworks
 Languages:![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
